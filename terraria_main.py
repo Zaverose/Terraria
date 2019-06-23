@@ -1,3 +1,5 @@
+# the main file of the game
+
 import pygame
 import sys
 import environment as env
