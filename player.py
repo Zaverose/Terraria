@@ -1,3 +1,5 @@
+# holds the Player class
+
 import pygame
 pygame.init()
 
